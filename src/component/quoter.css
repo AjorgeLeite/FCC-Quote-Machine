@@ -1,0 +1,15 @@
+#text, #author {
+    color: black;
+}
+
+.ui {
+    margin-top: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+#quote-box {
+    width: 500px;
+    padding: 50px;
+}
